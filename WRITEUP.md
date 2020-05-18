@@ -111,4 +111,4 @@ python main.py -i resources/Pedestrian_Detect_2_1_1.mp4 -m model/pre_trained/int
 ```
 
 You can see the demo here 
-[demo]
+[demo](https://www.youtube.com/watch?v=gCCRFvQ2PKc)
