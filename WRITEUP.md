@@ -49,7 +49,6 @@ Some of the potential use cases of the people counter app are
 
 5. Easily monitor a specific area
 
-6. Intrusion detection 
 
 Each of these use cases would be useful because it about detecting and counting people in the specific area. 
 
